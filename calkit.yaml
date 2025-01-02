@@ -1,7 +1,6 @@
-title: MATLAB example
-description: >
-  This project shows how to incorporate MATLAB into a reproducible
-  research project.
+title: Test MATLAB
+description: >-
+  Testing the MATLAB template.
 dependencies:
   - matlab
 datasets:
@@ -14,3 +13,10 @@ figures:
     title: The plot
     description: The plot.
     stage: plot-data
+owner: petebachant
+name: test-matlab
+git_repo_url: https://github.com/petebachant/test-matlab
+derived_from:
+  project: calkit/example-matlab
+  git_repo_url: https://github.com/calkit/example-matlab
+  git_rev: 1127ffb07818b760b492138068ad02e9ae46a59c
