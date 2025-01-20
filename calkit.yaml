@@ -20,3 +20,5 @@ derived_from:
   project: calkit/example-matlab
   git_repo_url: https://github.com/calkit/example-matlab
   git_rev: 1127ffb07818b760b492138068ad02e9ae46a59c
+showcase:
+  - text: This is just some text here. We discovered some cool stuff.
